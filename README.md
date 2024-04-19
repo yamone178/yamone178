@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yamone Myat Moe
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Laravel and react
 - 📫 How to reach me - yamonemyatmoe1592@gmail.com
 
 <!---
